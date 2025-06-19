@@ -18,7 +18,13 @@ const MainSection = () => {
             </div>
             
 
-    
+            <div className="card-grid">
+                
+                <Card/>
+                <Card/>
+                <Card/>
+
+            </div>
           
         </main>
 
