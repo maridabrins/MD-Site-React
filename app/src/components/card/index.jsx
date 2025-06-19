@@ -1,10 +1,10 @@
+import './style.css'
 
-
-const Card = () => {
+const Card = ({ title, description}) => { //props   
     return(
         <div className="card">
-            <h3>JavaScript Moderno</h3>
-            <p>Do básico ao avançado com foco em lógica e projetos.</p>
+            <h3>{title}</h3>
+            <p>{description}</p>
         </div>
 
     )
