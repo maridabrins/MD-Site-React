@@ -20,9 +20,44 @@ const MainSection = () => {
 
             <div className="card-grid">
                 
-                <Card/>
-                <Card/>
-                <Card/>
+                <Card 
+                    title="JavaScript Moderno"
+                    description="Do básico ao avançado com foco em lógica e projetos"
+                />
+                <Card 
+                    title= "ReactJS na prática"
+                    description="Componentes, props, hooks, consumo de API"
+                />
+                <Card 
+                    title="JavaScript Moderno"
+                    description="Do básico ao avançado com foco em lógica e projetos"
+                />
+                <Card 
+                    title= "ReactJS na prática"
+                    description="Componentes, props, hooks, consumo de API"
+                />
+                <Card 
+                    title="JavaScript Moderno"
+                    description="Do básico ao avançado com foco em lógica e projetos"
+                />
+                <Card 
+                    title= "ReactJS na prática"
+                    description="Componentes, props, hooks, consumo de API"
+                />
+                <Card 
+                    title="JavaScript Moderno"
+                    description="Do básico ao avançado com foco em lógica e projetos"
+                />
+                <Card 
+                    title= "ReactJS na prática"
+                    description="Componentes, props, hooks, consumo de API"
+                />
+                <Card 
+                    title= "ReactJS na prática"
+                    description="Componentes, props, hooks, consumo de API"
+                />
+
+                
 
             </div>
           
